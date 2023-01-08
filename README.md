@@ -1,16 +1,30 @@
-### Hi there 👋
+# Olá! Seja bem-vindo(a)! 
 
-<!--
-**vitoria-F5/vitoria-F5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+  <p align='center'>
+  <a href="https://github.com/vitoriaisabel">
+  <br>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=vitoria-F5&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-F5&layout=compact&langs_count=16&theme=radical" />
+    </p>
+  </div>
+  
+  <div>
+    <br>
+    <p align='center'>
+<img src="https://profile-counter.glitch.me/vitoriaisabel/count.svg" />  
+      <hr>
+  </div>   
+  
+ <br>
+ <p align='center'>
+    
+![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
+    
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+</div>  
